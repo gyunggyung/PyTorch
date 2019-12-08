@@ -1,10 +1,13 @@
-# PyTorch
+![](pytorch-logo.png)
 
 ## What is PyTorch  
 tensorflow와 같이 널리 사용되는 딥러닝 라이브러리 중 하나입니다. PyTorch는 tensorflow나 Keras보다 파이써닉합니다. Python의 배열 기능을 쉽게 사용할 수 있고 numpy/scipy 등과 뛰어난 호환성을 보입니다. 또한 더욱 깔끔한 코드 작성이 가능합니다. 이외에도 여러가지 장점이 있지만 제가 느끼는 가장 큰 장점들입니다. 그리고 대부분의 코드가 C++로 구현되어 있는 tensorflow와 다르게 PyTorch는 텐서 연산을 위한 C++코드를 제외하고는 대부분 Python으로 구현되었습니다.
 > 참고 : https://tensorflow.blog/2017/01/23/pytorch-new-cool-dl-library/
 
 ## Contents  
+
+### PyTorch Basic
+
 1. [basic](01_basic.ipynb) : torch.Tenosr 사용법, 생성, 연산, 데이터 타입  
 ![](images/01.png)
 2. [variable autograd](02_variable_autograd.ipynb) : Variable 사용법, grad, backward 등  
@@ -17,6 +20,9 @@ tensorflow와 같이 널리 사용되는 딥러닝 라이브러리 중 하나입
 ![](images/05.png)
 6. [Batch Tranining](06_Batch_Training.ipynb) : Data.DataLoader, Batch 사용법  
 ![](images/06.png)
+
+### Neural Network
+
 7. [Optimizers](07_Optimizers.ipynb) : Optimizer function 성능비교  
 ![](images/07.png)
 8. [NN MNIST](08_NN_MNIST.ipynb) : neural network를 이용한 MNIST 진행  
@@ -31,40 +37,41 @@ tensorflow와 같이 널리 사용되는 딥러닝 라이브러리 중 하나입
 ![](images/11.png)
 12. [Dropout](12_Dropout.ipynb) : Dropout 적용, 미적용 비교  
 ![](images/12.png)
-
-++++
-
-13. [전이 학습]()
-
-14. [cnn 이미지 해상도 향상WW]()
-
-15. [단어 임베딩]()
-
 16. [RNN]()
 
-17. [텍스트 분류]()
+### Vison
 
-18. [NNLMW]()
+13. [Transfer Learning]()
 
-19. [seq2seq]()
-
-20. [RNN 문장 생성]()
+14. [CNN High resolution images]()
 
 21. [DCGAN]()
 
-22. [강화학습 문장 생성]()
-
 23. [VAE]()
+
+### NLP
+
+15. [Word Embedding]()
+
+17. [Text classificationw]()
+
+18. [NNLMW]()
+
+19. [Seq2Seq]() : 기계 번역
+
+20. [RNN text generation]()
+
+22. [Reinforcement learning text generation]()
 
 24. [ELMO]()
 
-25. [트렌스포머]()
+25. [Transformer]()
 
 26. [BERT]()
 
 27. [GPT-2]()
 
-28. [XL]()
+28. [XLNet]()
 
 ## Download and Try
 간단한 PyTorch 코드들이 있습니다. 다운로드를 하시고 코드를 실행해보며 이것도 될까 이게 어떻게 동작할까 하는 부분들은 코드를 바꿔보며 실행해보세요. 또한, 모르는 부분은 docs page를 참고하시면 알 수 있습니다.
