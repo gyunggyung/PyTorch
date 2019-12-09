@@ -12,25 +12,25 @@
 
 ### PyTorch Basic
 
-1. [basic](01_basic.ipynb)
-2. [variable autograd](02_variable_autograd.ipynb)
-3. [Linear Regression Models](03_Linear_Regression_Models.ipynb) 
-4. [NonLinear Models](04_NonLinear_Models.ipynb)
-5. [Classification Models](05_Classification_Models.ipynb) 
+1. [basic](Basic/01_basic.ipynb)
+2. [variable autograd](Basic/02_variable_autograd.ipynb)
+3. [Linear Regression Models](Basic/03_Linear_Regression_Models.ipynb) 
+4. [NonLinear Models](Basic/04_NonLinear_Models.ipynb)
+5. [Classification Models](Basic/05_Classification_Models.ipynb) 
 6. [Batch Tranining](06_Batch_Training.ipynb) 
 
 ### Neural Network Basic
 
-1. [Optimizers](07_Optimizers.ipynb) 
-2. [NN MNIST](08_NN_MNIST.ipynb) 
-3. [Deep NN MNIST](09_Deep_NN_MNIST.ipynb)
-4. [CNN MNIST](10_CNN_MNIST.ipynb) 
-5. [Dropout](12_Dropout.ipynb)
+1. [Optimizers](Basic/07_Optimizers.ipynb) 
+2. [NN MNIST](Basic/08_NN_MNIST.ipynb) 
+3. [Deep NN MNIST](Basic/09_Deep_NN_MNIST.ipynb)
+4. [CNN MNIST](Basic/10_CNN_MNIST.ipynb) 
+5. [Dropout](Basic/12_Dropout.ipynb)
 6. [RNN]()
 
 ### Vison
 
-1. [CNN CIFAR-10](11_CNN_CIFAR-10-GPU.ipynb) 
+1. [CNN CIFAR-10](Vison/11_CNN_CIFAR-10-GPU.ipynb) 
 2. [Transfer Learning]()
 3. [CNN High resolution images]()
 4. [DCGAN]()
