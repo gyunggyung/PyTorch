@@ -1,4 +1,4 @@
-![](images/pytorch-logo.png)
+![](logo/pytorch-logo.png)
 
 ---
 
