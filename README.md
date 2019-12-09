@@ -6,7 +6,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/newhiwoong/PyTorch?style=flat-square&color=informational)](https://github.com/newhiwoong/PyTorch/network/members)
 [![GitHub watching](https://img.shields.io/github/watchers/newhiwoong/PyTorch?style=flat-square&color=ff69b4)](https://github.com/newhiwoong/PyTorch/blob/master/watchers)
 [![GitHub issues](https://img.shields.io/github/issues/newhiwoong/PyTorch?style=flat-square&color=red)](https://github.com/newhiwoong/PyTorch/issues)
-[![contributors](https://img.shields.io/badge/contributors-welcome-9cf?style=flat-square)](https://github.com/newhiwoong/PyTorch/graphs/contributors)
+[![contributors](https://img.shields.io/badge/contributors-welcome-yellowgreen?style=flat-square)](https://github.com/newhiwoong/PyTorch/graphs/contributors)
 
 ## Contents  
 
