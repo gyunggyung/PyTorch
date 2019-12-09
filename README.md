@@ -41,7 +41,7 @@
 1. [Word Embedding]()
 2. [Text classificationw]()
 3. [NNLMW]()
-4. [Seq2Seq]() : 기계 번역
+4. [Seq2Seq]()
 5. [RNN text generation]()
 6. [Reinforcement learning text generation]()
 7. [ELMO]()
@@ -51,16 +51,35 @@
 11. [Transformer-XL]()
 12. [XLNet]()
 
-### Other Github
-- https://github.com/yunjey/pytorch-tutorial
-- https://github.com/bharathgs/Awesome-pytorch-list
-- https://github.com/rusty1s/pytorch_geometric
-- https://github.com/MorvanZhou/PyTorch-Tutorial
-- https://github.com/lyeoni/nlp-tutorial
-- https://github.com/kh-kim/nlp_with_pytorch_examples
-- https://github.com/Jpub/PyTorch_firststep
-- https://github.com/IBM/pytorch-seq2seq
-- https://github.com/huggingface/transformers
+## Other Github
+
+### tutorial
+- [tutorials](https://github.com/pytorch/tutorials)
+- [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+- [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
+- [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)
+- [PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
+
+### book
+- [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+- [pytorch-book](https://github.com/chenyuntc/pytorch-book)
+- [nlp_with_pytorch_examples](https://github.com/kh-kim/nlp_with_pytorch_examples)
+- [PyTorch_firststep](https://github.com/Jpub/PyTorch_firststep)
+
+### Vison
+- [StyleGAN_PyTorch](https://github.com/tomguluson92/StyleGAN_PyTorch)
+
+### NLP 
+- [pytorch-seq2seq](https://github.com/IBM/pytorch-seq2seq)
+- [transformers](https://github.com/huggingface/transformers)
+- [fairseq](https://github.com/pytorch/fairseq)
+- [KorQuAD](https://github.com/lyeoni/KorQuAD)
+- [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial)
+
+### recommender models
+- [spotlight](https://github.com/maciejkula/spotlight)
+- [PPLM](https://github.com/uber-research/PPLM)
+- [dlrm](https://github.com/facebookresearch/dlrm)
 
 ## System requirements
 
