@@ -12,25 +12,25 @@
 
 ### PyTorch Basic
 
-1. [basic](01_basic.ipynb) : torch.Tenosr 사용법, 생성, 연산, 데이터 타입  
-2. [variable autograd](02_variable_autograd.ipynb) : Variable 사용법, grad, backward 등  
-3. [Linear Regression Models](03_Linear_Regression_Models.ipynb) : Linear Models 제작, Naive Model, Neural net Model  
-4. [NonLinear Models](04_NonLinear_Models.ipynb) : NonLinear Models 제작, Activation Function, Make Models, Model Save and Load  
-5. [Classification Models](05_Classification_Models.ipynb) : Classifcation Models 제작, 2진 분류, 다중 분류  
-6. [Batch Tranining](06_Batch_Training.ipynb) : Data.DataLoader, Batch 사용법  
+1. [basic](01_basic.ipynb)
+2. [variable autograd](02_variable_autograd.ipynb)
+3. [Linear Regression Models](03_Linear_Regression_Models.ipynb) 
+4. [NonLinear Models](04_NonLinear_Models.ipynb)
+5. [Classification Models](05_Classification_Models.ipynb) 
+6. [Batch Tranining](06_Batch_Training.ipynb) 
 
 ### Neural Network Basic
 
-1. [Optimizers](07_Optimizers.ipynb) : Optimizer function 성능비교  
-2. [NN MNIST](08_NN_MNIST.ipynb) : neural network를 이용한 MNIST 진행  
-3. [Deep NN MNIST](09_Deep_NN_MNIST.ipynb) : deep neural network를 이용한 MNIST 진행  
-4. [CNN MNIST](10_CNN_MNIST.ipynb) : CNN을 이용한 MNIST  
-5. [Dropout](12_Dropout.ipynb) : Dropout 적용, 미적용 비교  
+1. [Optimizers](07_Optimizers.ipynb) 
+2. [NN MNIST](08_NN_MNIST.ipynb) 
+3. [Deep NN MNIST](09_Deep_NN_MNIST.ipynb)
+4. [CNN MNIST](10_CNN_MNIST.ipynb) 
+5. [Dropout](12_Dropout.ipynb)
 6. [RNN]()
 
 ### Vison
 
-1. [CNN CIFAR-10](11_CNN_CIFAR-10-GPU.ipynb) : GPU를 이용한 CIFAR-10 CNN 분류 진행 
+1. [CNN CIFAR-10](11_CNN_CIFAR-10-GPU.ipynb) 
 2. [Transfer Learning]()
 3. [CNN High resolution images]()
 4. [DCGAN]()
@@ -50,6 +50,17 @@
 10. [GPT-2]()
 11. [Transformer-XL]()
 12. [XLNet]()
+
+### Other Github
+- https://github.com/yunjey/pytorch-tutorial
+- https://github.com/bharathgs/Awesome-pytorch-list
+- https://github.com/rusty1s/pytorch_geometric
+- https://github.com/MorvanZhou/PyTorch-Tutorial
+- https://github.com/lyeoni/nlp-tutorial
+- https://github.com/kh-kim/nlp_with_pytorch_examples
+- https://github.com/Jpub/PyTorch_firststep
+- https://github.com/IBM/pytorch-seq2seq
+- https://github.com/huggingface/transformers
 
 ## System requirements
 
