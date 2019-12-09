@@ -5,8 +5,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/newhiwoong/PyTorch?style=flat-square&color=yellow)](https://github.com/newhiwoong/PyTorch/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/newhiwoong/PyTorch?style=flat-square&color=informational)](https://github.com/newhiwoong/PyTorch/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/newhiwoong/PyTorch?style=flat-square&color=red)](https://github.com/newhiwoong/PyTorch/issues)
-
-tensorflow와 같이 널리 사용되는 딥러닝 라이브러리 중 하나입니다. PyTorch는 tensorflow나 Keras보다 파이써닉합니다.
+[![GitHub watching](https://img.shields.io/github/watchers/newhiwoong/PyTorch?style=flat-square&color=ff69b4)](https://github.com/newhiwoong/PyTorch/blob/master/watchers)
+[![contributors](https://img.shields.io/badge/contributors-welcome-lightgrey?style=flat-square)](https://github.com/newhiwoong/PyTorch/graphs/contributors)
 
 ## Contents  
 
@@ -54,7 +54,6 @@ tensorflow와 같이 널리 사용되는 딥러닝 라이브러리 중 하나입
 ## System requirements
 
 ```
-pip install -r requirements.txt
 conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
-git clone https://github.com/newhiwoong/PyTorch.git
+pip install -r requirements.txt
 ```
