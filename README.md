@@ -31,25 +31,25 @@
 ### Vison
 
 1. [CNN CIFAR-10](Vison/CNN_CIFAR-10/CNN_CIFAR-10.ipynb) 
-2. [Transfer Learning](Vison/README.md)
+2. [Transfer Learning](Vison)
 3. [CNN High resolution images](Vison)
 4. [DCGAN](Vison)
 5. [VAE](Vison)
 
 ### NLP
 
-1. [Word Embedding]()
-2. [Text classificationw]()
-3. [NNLMW]()
-4. [Seq2Seq]()
-5. [RNN text generation]()
-6. [Reinforcement learning text generation]()
-7. [ELMO]()
-8. [Transformer]()
-9. [BERT]()
-10. [GPT-2]()
-11. [Transformer-XL]()
-12. [XLNet]()
+1. [Word Embedding](NLP)
+2. [Text classificationw](NLP)
+3. [NNLMW](NLP)
+4. [Seq2Seq](NLP)
+5. [RNN text generation](NLP)
+6. [Reinforcement learning text generation](NLP)
+7. [ELMO](NLP)
+8. [Transformer](NLP)
+9. [BERT](NLP)
+10. [GPT-2](NLP)
+11. [Transformer-XL](NLP)
+12. [XLNet](NLP)
 
 ## Other Github
 
