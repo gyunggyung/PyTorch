@@ -17,7 +17,7 @@
 3. [Linear Regression Models](Basic/03_Linear_Regression_Models.ipynb) 
 4. [NonLinear Models](Basic/04_NonLinear_Models.ipynb)
 5. [Classification Models](Basic/05_Classification_Models.ipynb) 
-6. [Batch Tranining](06_Batch_Training.ipynb) 
+6. [Batch Tranining](Basic/06_Batch_Training.ipynb) 
 
 ### Neural Network Basic
 
@@ -26,7 +26,7 @@
 3. [Deep NN MNIST](Basic/09_Deep_NN_MNIST.ipynb)
 4. [CNN MNIST](Basic/10_CNN_MNIST.ipynb) 
 5. [Dropout](Basic/12_Dropout.ipynb)
-6. [RNN]()
+6. [RNN](.)
 
 ### Vison
 
