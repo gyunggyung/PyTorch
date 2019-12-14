@@ -30,7 +30,7 @@
 
 ### Vison
 
-1. [CNN CIFAR-10](Vison/11_CNN_CIFAR-10-GPU.ipynb) 
+1. [CNN CIFAR-10](Vison/CNN_CIFAR-10/CNN_CIFAR-10.ipynb) 
 2. [Transfer Learning]()
 3. [CNN High resolution images]()
 4. [DCGAN]()
@@ -82,7 +82,7 @@
 - [dlrm](https://github.com/facebookresearch/dlrm)
 
 ## System requirements
-ㅁ
+
 ```
 conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 pip install -r requirements.txt
