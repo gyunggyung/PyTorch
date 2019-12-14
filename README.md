@@ -26,15 +26,15 @@
 3. [Deep NN MNIST](Basic/09_Deep_NN_MNIST.ipynb)
 4. [CNN MNIST](Basic/10_CNN_MNIST.ipynb) 
 5. [Dropout](Basic/12_Dropout.ipynb)
-6. [RNN](.)
+6. [RNN](README.md)
 
 ### Vison
 
 1. [CNN CIFAR-10](Vison/CNN_CIFAR-10/CNN_CIFAR-10.ipynb) 
-2. [Transfer Learning]()
-3. [CNN High resolution images]()
-4. [DCGAN]()
-5. [VAE]()
+2. [Transfer Learning](Vison/README.md)
+3. [CNN High resolution images](Vison)
+4. [DCGAN](Vison)
+5. [VAE](Vison)
 
 ### NLP
 
