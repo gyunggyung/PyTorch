@@ -1,6 +1,5 @@
 ![](logo/pytorch-logo.png)
 
-
 [![LICENSE](https://img.shields.io/github/license/newhiwoong/PyTorch?style=flat-square)](https://github.com/newhiwoong/PyTorch/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/newhiwoong/PyTorch?style=flat-square&color=yellow)](https://github.com/newhiwoong/PyTorch/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/newhiwoong/PyTorch?style=flat-square&color=informational)](https://github.com/newhiwoong/PyTorch/network/members)
@@ -8,7 +7,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/newhiwoong/PyTorch?style=flat-square&color=red)](https://github.com/newhiwoong/PyTorch/issues)
 [![contributors](https://img.shields.io/badge/contributors-welcome-yellowgreen?style=flat-square)](https://github.com/newhiwoong/PyTorch/graphs/contributors)
 
-## Contents  
+## Contents
 
 ### PyTorch Basic
 
@@ -31,10 +30,10 @@
 ### Vison
 
 1. [CNN CIFAR-10](Vison/CNN_CIFAR-10/CNN_CIFAR-10.ipynb) 
-2. [Transfer Learning](Vison)
-3. [CNN High resolution images](Vison)
-4. [DCGAN](Vison)
-5. [VAE](Vison)
+2. [Transfer Learning](Vison/Transfer__Learning)
+3. [CNN High resolution images](Vison/CNN__High__resolution__images)
+4. [DCGAN](Vison/DCGAN)
+5. [VAE](Vison/DCGAN)
 
 ### NLP
 
@@ -54,6 +53,7 @@
 ## Other Github
 
 ### tutorial
+
 - [tutorials](https://github.com/pytorch/tutorials)
 - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
 - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
@@ -61,15 +61,18 @@
 - [PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
 
 ### book
+
 - [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 - [pytorch-book](https://github.com/chenyuntc/pytorch-book)
 - [nlp_with_pytorch_examples](https://github.com/kh-kim/nlp_with_pytorch_examples)
 - [PyTorch_firststep](https://github.com/Jpub/PyTorch_firststep)
 
 ### Vison
+
 - [StyleGAN_PyTorch](https://github.com/tomguluson92/StyleGAN_PyTorch)
 
-### NLP 
+### NLP
+
 - [pytorch-seq2seq](https://github.com/IBM/pytorch-seq2seq)
 - [transformers](https://github.com/huggingface/transformers)
 - [fairseq](https://github.com/pytorch/fairseq)
@@ -77,6 +80,7 @@
 - [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial)
 
 ### recommender models
+
 - [spotlight](https://github.com/maciejkula/spotlight)
 - [PPLM](https://github.com/uber-research/PPLM)
 - [dlrm](https://github.com/facebookresearch/dlrm)
