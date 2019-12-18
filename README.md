@@ -59,6 +59,7 @@
 - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
 - [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)
 - [PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
+- [paperswithcode](https://paperswithcode.com/)
 
 ### book
 
