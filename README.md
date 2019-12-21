@@ -71,6 +71,7 @@
 ### Vison
 
 - [StyleGAN_PyTorch](https://github.com/tomguluson92/StyleGAN_PyTorch)
+- [hashtag-prediction-pytorch](https://github.com/monologg/hashtag-prediction-pytorch)
 
 ### NLP
 
@@ -78,7 +79,14 @@
 - [transformers](https://github.com/huggingface/transformers)
 - [fairseq](https://github.com/pytorch/fairseq)
 - [KorQuAD](https://github.com/lyeoni/KorQuAD)
+- [R-BERT](https://github.com/monologg/R-BERT)
+
 - [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial)
+- [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py)
+- [Korean_NER_CNN_BiLSTM](https://github.com/eagle705/Korean_NER_CNN_BiLSTM)
+- [pytorch-bert-crf-ner](https://github.com/eagle705/pytorch-bert-crf-ner)
+- [bert-event-extraction](https://github.com/nlpcl-lab/bert-event-extraction)
+
 
 ### recommender models
 
