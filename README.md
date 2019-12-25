@@ -95,6 +95,9 @@
 - [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial)
 - [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py)
 
+### Speech
+- [deepspeech](https://github.com/MyrtleSoftware/deepspeech)
+
 
 ### recommender models
 
