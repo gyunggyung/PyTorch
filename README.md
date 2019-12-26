@@ -76,6 +76,7 @@
 - [stargan-v2](https://github.com/clovaai/stargan-v2)
 - [glow](https://github.com/chrischute/glow)
  -[albumentations](https://github.com/albumentations-team/albumentations)
+- [kill-the-bits](https://github.com/facebookresearch/kill-the-bits)
 
 ### NLP
 
