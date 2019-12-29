@@ -77,6 +77,7 @@
 - [glow](https://github.com/chrischute/glow)
  -[albumentations](https://github.com/albumentations-team/albumentations)
 - [kill-the-bits](https://github.com/facebookresearch/kill-the-bits)
+- [gen-efficientnet-pytorch](https://github.com/rwightman/gen-efficientnet-pytorch)
 
 ### NLP
 
