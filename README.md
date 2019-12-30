@@ -100,7 +100,7 @@
 
 ### Speech
 - [deepspeech](https://github.com/MyrtleSoftware/deepspeech)
-
+- [nonparaSeq2seqVC_code](https://github.com/jxzhanggg/nonparaSeq2seqVC_code)
 
 ### recommender models
 
