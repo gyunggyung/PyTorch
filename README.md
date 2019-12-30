@@ -96,6 +96,7 @@
 - [vizseq](https://github.com/facebookresearch/vizseq)
 - [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial)
 - [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py)
+- [mrc-for-flat-nested-ner](https://github.com/ShannonAI/mrc-for-flat-nested-ner)
 
 ### Speech
 - [deepspeech](https://github.com/MyrtleSoftware/deepspeech)
