@@ -97,6 +97,7 @@
 - [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial)
 - [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py)
 - [mrc-for-flat-nested-ner](https://github.com/ShannonAI/mrc-for-flat-nested-ner)
+- [mt-dnn](https://github.com/namisan/mt-dnn)
 
 ### Speech
 - [deepspeech](https://github.com/MyrtleSoftware/deepspeech)
