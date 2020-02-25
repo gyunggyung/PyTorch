@@ -44,7 +44,7 @@
 5. [RNN text generation](NLP/text_generation)
 6. [Reinforcement learning text generation](NLP/Reinforcement_learning_text_generation)
 7. [ELMO](NLP/ELMO)
-8. [Transformer](NLP/Transformer)
+8. [Transformer](NLP/Transformer/transformer.ipynb)
 9. [BERT](NLP/BERT)
 10. [GPT-2](NLP/GPT-2)
 11. [Transformer-XL](NLP/Transformer-XL)
