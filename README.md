@@ -125,6 +125,40 @@ $ jupyter notebook
 - [PPLM](https://github.com/uber-research/PPLM)
 - [dlrm](https://github.com/facebookresearch/dlrm)
 
+## Recommended Reading
+
+### PyTorch basics
+
+* http://pytorch.org/ For installation instructions
+* [Offical PyTorch tutorials](http://pytorch.org/tutorials/) for more tutorials (some of these tutorials are included there)
+* [Deep Learning with PyTorch: A 60-minute Blitz](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) to get started with PyTorch in general
+* [Introduction to PyTorch for former Torchies](https://github.com/pytorch/tutorials/blob/master/Introduction%20to%20PyTorch%20for%20former%20Torchies.ipynb) if you are a former Lua Torch user
+* [jcjohnson's PyTorch examples](https://github.com/jcjohnson/pytorch-examples) for a more in depth overview (including custom modules and autograd functions)
+
+### Recurrent Neural Networks
+
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) shows a bunch of real life examples
+* [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) for an overview on word embeddings and RNNs for NLP
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) is about LSTMs work specifically, but also informative about RNNs in general
+
+### Machine translation
+
+* [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/abs/1406.1078)
+* [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/abs/1409.3215)
+
+### Attention models
+
+* [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+* [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
+
+### Other RNN uses
+
+* [A Neural Conversational Model](http://arxiv.org/abs/1506.05869)
+
+### Other PyTorch tutorials
+
+* [Deep Learning For NLP In PyTorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
+
 ## Author
 gyung/ [@gyunggyung](https://github.com/gyunggyung)
 
