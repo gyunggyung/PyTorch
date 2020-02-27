@@ -124,6 +124,5 @@ $ jupyter notebook
 - [dlrm](https://github.com/facebookresearch/dlrm)
 
 ## Author
-gyung/ @gyunggyung
-
+gyung/ [@gyunggyung](https://github.com/gyunggyung)
 
