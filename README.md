@@ -9,7 +9,7 @@
 
 ## Contents
 
-### PyTorch Basic
+### 1. PyTorch Basic
 
 1. [basic](Basic/01_basic.ipynb)
 2. [variable autograd](Basic/02_variable_autograd.ipynb)
@@ -18,7 +18,7 @@
 5. [Classification Models](Basic/05_Classification_Models.ipynb) 
 6. [Batch Tranining](Basic/06_Batch_Training.ipynb) 
 
-### Neural Network Basic
+### 2. Neural Network Basic
 
 1. [Optimizers](Basic/07_Optimizers.ipynb) 
 2. [NN MNIST](Basic/08_NN_MNIST.ipynb) 
@@ -27,7 +27,7 @@
 5. [Dropout](Basic/12_Dropout.ipynb)
 6. [RNN](README.md)
 
-### Vison
+### 3. Vison
 
 1. [CNN CIFAR-10](Vison/CNN_CIFAR-10/CNN_CIFAR-10.ipynb) 
 2. [Transfer Learning](Vison/Transfer_Learning)
@@ -35,7 +35,7 @@
 4. [DCGAN](Vison/DCGAN)
 5. [VAE](Vison/DCGAN)
 
-### NLP
+### 4. NLP
 
 1. [Word Embedding](NLP/Word_Embedding)
 2. [Text classificationw](NLPText_classificationw)
@@ -64,6 +64,8 @@ $ git clone https://github.com/gyunggyung/PyTorch.git
 $ cd PyTorch
 $ jupyter notebook
 ```
+
+----
 
 ## Other Github
 
