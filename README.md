@@ -51,6 +51,11 @@
 12. [XLNet](NLP/XLNet)
 13. [T5](NLP)
 
+## Getting Started
+$ git clone https://github.com/gyunggyung/PyTorch.git
+$ cd PyTorch
+$ jupyter notebook
+
 ## Other Github
 
 ### tutorial
