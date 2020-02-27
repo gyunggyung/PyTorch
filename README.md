@@ -123,4 +123,7 @@ $ jupyter notebook
 - [PPLM](https://github.com/uber-research/PPLM)
 - [dlrm](https://github.com/facebookresearch/dlrm)
 
+## Author
+gyung/ @gyunggyung
+
 
