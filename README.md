@@ -51,6 +51,13 @@
 12. [XLNet](NLP/XLNet)
 13. [T5](NLP)
 
+## System requirements
+
+```
+conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
+pip install -r requirements.txt
+```
+
 ## Getting Started
 ```
 $ git clone https://github.com/gyunggyung/PyTorch.git
@@ -116,9 +123,4 @@ $ jupyter notebook
 - [PPLM](https://github.com/uber-research/PPLM)
 - [dlrm](https://github.com/facebookresearch/dlrm)
 
-## System requirements
 
-```
-conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
-pip install -r requirements.txt
-```
