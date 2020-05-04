@@ -2,10 +2,10 @@
 
 [![LICENSE](https://img.shields.io/github/license/newhiwoong/PyTorch?style=flat-square)](https://github.com/newhiwoong/PyTorch/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/newhiwoong/PyTorch?style=flat-square&color=yellow)](https://github.com/newhiwoong/PyTorch/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/newhiwoong/PyTorch?style=flat-square&color=informational)](https://github.com/newhiwoong/PyTorch/network/members)
-[![GitHub watching](https://img.shields.io/github/watchers/newhiwoong/PyTorch?style=flat-square&color=ff69b4)](https://github.com/newhiwoong/PyTorch/blob/master/watchers)
-[![GitHub issues](https://img.shields.io/github/issues/newhiwoong/PyTorch?style=flat-square&color=red)](https://github.com/newhiwoong/PyTorch/issues)
-[![contributors](https://img.shields.io/badge/contributors-welcome-yellowgreen?style=flat-square)](https://github.com/newhiwoong/PyTorch/graphs/contributors)
+[![GitHub forks](https://img.shields.io/github/forks/gyunggyung/PyTorch?style=flat-square&color=informational)](https://github.com/gyunggyung/PyTorch/network/members)
+[![GitHub watching](https://img.shields.io/github/watchers/gyunggyung/PyTorch?style=flat-square&color=ff69b4)](https://github.com/gyunggyung/PyTorch/blob/master/watchers)
+[![GitHub issues](https://img.shields.io/github/issues/gyunggyung/PyTorch?style=flat-square&color=red)](https://github.com/gyunggyung/PyTorch/issues)
+[![contributors](https://img.shields.io/badge/contributors-welcome-yellowgreen?style=flat-square)](https://github.com/gyunggyung/PyTorch/graphs/contributors)
 
 ## Contents
 
